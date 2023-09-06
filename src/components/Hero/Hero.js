@@ -18,7 +18,7 @@ const Hero = (props) => (
       <SectionText>
         A full-stack web developer, learner and coding enthusiast!
       </SectionText>
-      <Button onClick = {() => window.location = "https://drive.google.com/file/d/1Tc0yqhY-H-PvJWbW_JWMHx3aVURun0Dq/view?usp=sharing"}>
+      <Button onClick = {() => window.location = "https://drive.google.com/file/d/1bBI0Vr1yvgj2Ol5150UpQ0nnnA0T-ZYy/view?usp=sharing"}>
       
         My resume
       </Button>

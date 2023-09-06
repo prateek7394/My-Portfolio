@@ -1,11 +1,11 @@
 export const projects = [
   {
-    title: 'SearchIt',
-    description: "SearchIt is basically a Google clone website in which users can search for a specific term and get various data related to it such as images, videos, news, links etc.It is supported with unique features like DARK mode, Modern UI and fully responsive on all devices.",
+    title: 'Voyager',
+    description: "Voyager is a web-based online platform where users can create blogs of different categories like Music, Tech, Movies, Politics  etc. by giving a title, description, and uploading a cover image. Users can also comment on different blogs and view each other's comments.",
       image: '/images/1.png',
-      tags: [ 'React', 'Tailwind CSS', 'Google Search API'],
-    code: 'https://github.com/prateek7394/SearchIt',
-    website: 'https://github.com/prateek7394/SearchIt',
+      tags: [ 'ReactJS','NodeJS','ExpressJS', 'MongoDB', 'Material UI'],
+    code: 'https://github.com/prateek7394/Blog_Application',
+    website: 'https://blogapplication1909.netlify.app/',
     id: 0,
   },
   {
@@ -27,12 +27,12 @@ export const projects = [
     id: 2,
   },
   {
-    title: 'To-do List',
-    description: "This is a simple To-do list created in which you can add and remove your daily tasks.",
+    title: 'KnowMe',
+    description: "This is my personal portfolio website which contains all the information about myself, my projects, skills, certifications and my journey. Nice interface containing an amazing SVG Animation",
     image: '/images/4.png',
-    tags: ['Javascript', 'EJS', 'Node', 'MongoDB'],
-    code: 'https://github.com/prateek7394/TodoList',
-    website: 'https://majestic-hot-springs-26864.herokuapp.com/',
+    tags: ['NestJS', 'ReactJS', 'Styled Components'],
+    code: 'https://github.com/prateek7394/My-Portfolio',
+    website: 'https://github.com/prateek7394/My-Portfolio',
     id: 3,
   },
 ];
